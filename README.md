@@ -5,7 +5,7 @@ Welcome to my GitHub profile — here’s a quick look at my main portfolio proj
 
 ---
 
-### 💼 [Backend Developer Portfolio](https://github.com/morimana-cuk/portfolio-morimana)
+### 💼 [Backend Developer Portfolio](https://github.com/morimana-cuk/Portofolio)
 > My professional portfolio containing backend projects built with Laravel, Flask, and Node.js.  
 > Includes system management for hospitals, IoT-based water quality analysis, and cloud deployment projects.
 
