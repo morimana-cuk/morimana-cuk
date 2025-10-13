@@ -1,10 +1,17 @@
-# perkenalan
-# Halo semua! 
+# 👋 Hi, I’m Mohammad Rizal Maulana Najib
 
-Perkenalkan nama saya **Mohammad Rizal Maulana Najib**.<br>
+I’m a Backend Developer specializing in **Laravel**, **Flask**, and **Node.js (Hapi)**.  
+Welcome to my GitHub profile — here’s a quick look at my main portfolio project:
 
-Saya sekarang seorang **Mahasiswa** di Politeknik Negeri Jember.<br>
+---
 
+### 💼 [Backend Developer Portfolio](https://github.com/morimana-cuk/portfolio-morimana)
+> My professional portfolio containing backend projects built with Laravel, Flask, and Node.js.  
+> Includes system management for hospitals, IoT-based water quality analysis, and cloud deployment projects.
 
+---
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/morimana/) ku ya.
+📫 **Find me on:**  
+- LinkedIn: [linkedin.com/in/morimana](https://linkedin.com/in/morimana)  
+- Email: rizalmaulananajib@gmail.com  
+- GitHub: [github.com/morimana-cuk](https://github.com/morimana-cuk)
